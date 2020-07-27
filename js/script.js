@@ -21,7 +21,7 @@ while (nArray.length < 5) {
 alert(nArray);
 // console.log(nArray);
 
-setTimeout(numeriPrompt, 3000);
+setTimeout(numeriPrompt, 30000);
 
 // **FUNZIONI**
 
